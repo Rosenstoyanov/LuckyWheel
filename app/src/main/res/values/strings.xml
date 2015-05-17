@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LuckyWheel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+    <string name="title_activity_take_my_money">TakeMyMoneyActivity</string>
+
+</resources>
